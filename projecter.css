@@ -5,3 +5,7 @@
 #SearchRead:hover {
     background: rgba(255, 255, 255, 0.418);
 }
+#SearchText {
+    grid-template-columns: 0.75fr 0.25fr;
+    grid-template-rows: 1fr;
+}
