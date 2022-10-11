@@ -107,6 +107,7 @@ img {
   width: fit-content;
   border-radius: 10px;
   padding: 16px;
+  align-items: center;
 }
 p {
   margin: 0;
