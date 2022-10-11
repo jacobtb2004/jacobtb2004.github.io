@@ -97,7 +97,7 @@ img {
 
 .project {
   display: grid;
-  grid-template-columns: 0.25fr 0.75fr;
+  grid-template-columns: 0.25fr 0.75fr 0.15fr;
   grid-template-rows: 2fr;
   color: rgb(255, 255, 255);
   text-align: left;
