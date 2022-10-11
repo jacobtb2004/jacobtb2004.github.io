@@ -1,4 +1,5 @@
 #SearchRead:hover {
     background: rgba(255, 255, 255, 0.418);
     bottom: 2%;
+    min-height: fit-content;
 }
