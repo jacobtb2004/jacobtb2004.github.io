@@ -5,7 +5,17 @@
 #SearchRead:hover {
     background: rgba(255, 255, 255, 0.418);
 }
-#SearchText {
-    grid-template-columns: 0.75fr 0.25fr;
+.SearchText {
+    display: grid;
+    grid-template-columns: 0.75fr 0.15fr;
     grid-template-rows: 1fr;
-}
+    color: rgb(255, 255, 255);
+    text-align: left;
+    justify-items: center;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.384);
+    width: fit-content;
+    border-radius: 10px;
+    padding: 16px;
+    align-items: center;
+  }
