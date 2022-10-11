@@ -1,12 +1,7 @@
 #SearchRead {
-    height: 20px;
-    bottom: 2%;
+    background: rgba(255, 255, 255, 0.209);
 }
-
-
 
 #SearchRead:hover {
     background: rgba(255, 255, 255, 0.418);
-    bottom: 2%;
-    height: 20px;
 }
