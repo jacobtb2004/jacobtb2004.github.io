@@ -9,7 +9,7 @@ body {
   height: 20px;
   border: 2px solid #fff;
   box-sizing: border-box;
-  transition: 0.0s;
+  transition: 0s;
   transform: translate(-50%, -50%);
   border-radius: 50%;
   pointer-events: none;
@@ -274,6 +274,6 @@ a {
     display: none;
   }
   #cursor {
-    display: initial
-  };
+    display: initial;
+  }
 }
