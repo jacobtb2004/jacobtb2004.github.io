@@ -6,9 +6,9 @@
   background: rgba(255, 255, 255, 0.418);
 }
 #SearchText {
-  grid-template-columns: 0.75fr 0.20fr;
+  grid-template-columns: 0.75fr 0.2fr;
   grid-template-rows: 1fr;
 }
 #SearchTutorial {
-    right: 5%;
+  right: 5%;
 }
