@@ -7,4 +7,5 @@
 }
 #SearchText {
   grid-template-columns: 0.75fr 0.15fr;
+  grid-template-rows: 1fr;
 }
